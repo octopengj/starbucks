@@ -1,0 +1,10 @@
+# Starbucks
+
+### JS
+- GSAP & SCROLLTOPLUGIN
+- SWIPER
+- SCROLLMAGIC
+- RESET.JS
+
+### LINK
+- GOOGLE FONTS
